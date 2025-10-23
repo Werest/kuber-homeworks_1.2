@@ -42,6 +42,7 @@ spec:
     - containerPort: 8080
 ```
 microk8s kubectl apply -f pod1.yaml
+
 <img width="575" height="44" alt="1" src="https://github.com/user-attachments/assets/5d8c1ddc-8f8e-4694-941b-9edec6c1ac83" />
 <img width="480" height="97" alt="2" src="https://github.com/user-attachments/assets/b70d2bbd-9be1-4b4c-a5bf-f71911dc8c60" />
 <img width="781" height="87" alt="3" src="https://github.com/user-attachments/assets/958075fc-cfd0-482c-a98d-0c1eb4a57f13" />
@@ -87,6 +88,7 @@ spec:
 ```
 microk8s kubectl apply -f pod2.yaml
 microk8s kubectl get svc
+
 <img width="808" height="363" alt="z2-1" src="https://github.com/user-attachments/assets/c9d5e97b-cd06-44b8-93df-5cdc77bf2edb" />
 <img width="600" height="581" alt="z2-2" src="https://github.com/user-attachments/assets/b2bc6d7a-645f-4dc5-9b6d-2e5bfc737e5b" />
 
